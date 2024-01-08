@@ -1,0 +1,76 @@
+{
+  "Scientific":"Scientific",
+  "literary" :"Literary",
+  "religioussecondaryschool":"Religious secondary school",
+  "commercialsecondaryschool" :"Commercial secondary school",
+  "vocationalsecondaryschoolforgirl":"vocational secondary school for girl",
+  "industrialvocationalsecondaryschool":"industrial vocational secondary school",
+  "convertlanguage":"Arabic",
+  "next":"Next",
+  "unfollow":" Unfollow",
+  "follow":" Follow",
+  "Ops, I think you should take a break, \n Check your internet":"Ops :(, I think you should take a break, \n Check your internet",
+  "fromcamera":"From Camera",
+  "fromGallery":"From Gallery",
+  "pleasechooseimage":"Please Choose Image:",
+  "allteachers":"All Teachers",
+  "additnow": "Add it now!",
+  "phonenumber":"Phone number",
+  "school":"School",
+  "enteryourschool:":"Enter your school :",
+  "dontfindyourschool?":"Dont find your school?",
+  "chooseyourschool":"choose your school, Please!",
+  "password":"Password",
+  "firstname":"First name",
+  "lastname":"Last name",
+  "username":"User name",
+  "signup":"SignUp",
+  "don'thaveanaccount?":"Don't have an account?",
+
+  "pleaseenteryourname":"Please enter your name",
+
+  "pleasecompleteyourprofile":"Please complete your profile.",
+  "pleasecompleteyourInformation":"Please complete your Information",
+  "welcome":"Welcome!",
+  "createanaccount":"Create an account",
+  "login":"Login",
+  "home" : "Home",
+"collections" : "Collections",
+"chooseyourstudy":"Choose your study specialization",
+"profile" : "Profile",
+"knackchat" : "Knackchat",
+
+
+"topcollections" : "Top collections",
+"showall" : "Show all",
+"topauthos" : "Top authors ",
+"topquiz" : "Top quiz",
+"toppicks" : "Top picks",
+
+"quizer" : "Quizer",
+    
+    "collection" : "Collection",
+"about" : "About",
+
+"comesoon" : "come soon",
+
+"follows" : "Follows",
+
+"folowers" : "Followers",
+"correct" : "Correct!",
+"incorrect" : "Incorrect!",
+"choosethecorrectanswerplease" :
+"Choose the correct answer, Please!",
+"1": "Everything is here to enjoy quiz!",
+    "quizasagroup" : "Quiz as a group or individually! Expand your circle!",
+ "testyourknowledge": "Test your Knowledge ,\n Quiz Master",
+"challengeyourself": "Challenge yourself with a variety of quizzes!",
+"elevateyourquiz": "Elevate your quiz experience!",
+ "unleashyourtrivia": "Unleash your trivia prowess with Quizer Pro!",
+ "ihaveanaccount":"I have an account",
+ "getstarted":"Get started",
+ "welcometoKnakchat!":"Welcome to Knakchat!",
+ "continue":"Continue"
+ 
+
+}
